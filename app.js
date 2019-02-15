@@ -37,3 +37,8 @@ console.log(exArray[0]);
 //"One of my favorite movies is ________."
 //8. Access the first element in your last  array and print it as part of the following sentence 
 //"One of my favorite __(fill in)__ is ________."
+
+for(var i = 1; i < 10; i = i +2){
+    console.log("Hi everyone I can count to " + i);
+//var i = i+1;
+}
